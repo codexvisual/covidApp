@@ -1,0 +1,6 @@
+# B4A compiled output
+Objects/
+AutoBackups/
+*.apk
+*.bak
+.DS_Store
